@@ -1,0 +1,40 @@
+{
+    "Calificaciones": [
+        {
+            "nombre": "Juilio Banega",
+            "notas": 87
+        },
+        {
+            "Nombre": "Ariana Ruiz",
+            "notas": 67
+        },
+        {
+            "nombre": "Martin lutero",
+            "notas": 78
+        },
+        {
+            "nombre": "milton duarte",
+            "notas": 68
+        },
+        {
+            "nombre": "Lesly diaz",
+            "notas": 79
+        },
+        {
+            "nombre": "Mario Juarez",
+            "notas": 70
+        },
+        {
+            "nombre": "wanda Rodriguez",
+            "notas": 98
+        },
+        {
+            "nombre": "Kenia Rodriguez",
+            "notas": 73
+        },
+        {
+            "nombre": "nicol Martinez",
+            "notas": 75
+        }
+    ]
+}
